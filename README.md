@@ -1,5 +1,5 @@
 # POC-Docs
-This is just a DOC repo
+This is my Document Repo. Please find the attached POC documents
 
 **POC1**
 
